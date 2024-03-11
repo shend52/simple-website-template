@@ -20,7 +20,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#33D4FF;
+  color:#CEE5FB;
 }
 a:focus {
   outline: thin dotted;
@@ -101,7 +101,7 @@ body {
   margin:25px auto;
 }
 header, #content, footer { 
-  background: rgba(0,0,0,.8); 
+  background: #A4A7A8; 
   padding:25px;
   color:#FFFFFF; 
 }
@@ -126,7 +126,7 @@ ul.main-menu li a:hover {
 }
 ul.main-menu li a.active {
   color:#FFFFFF;
-  border-bottom-color:#33D4FF;
+  border-bottom-color:#CEE5FB;
 }
 
 /* Utility classes */
